@@ -1,9 +1,7 @@
-You look great in Suspenders
-============================
+Summer Summit Hackathon Creation
+================================
 
-Use the following guides for getting things done, programming well, and
-programming in style.
+Saving money is the bee's knees. You should save for being social.
 
-* [Protocol](http://github.com/thoughtbot/guides/blob/master/protocol)
-* [Best Practices](http://github.com/thoughtbot/guides/blob/master/best-practices)
-* [Style](http://github.com/thoughtbot/guides/blob/master/style)
+* [twitter button nonsense](https://dev.twitter.com/docs/tweet-button#properties)
+* [stripe api docs](https://stripe.com/docs/api)
